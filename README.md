@@ -2,7 +2,7 @@
 learning git from github.
 
 # GIT Commands
-git init: tp initalize the an empty repo
+git init: to initalize the an empty repo
 
 git clone <url>: to clone the remote repository in to the local machine
 after cloning "cd reponame/directory"
